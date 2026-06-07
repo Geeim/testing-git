@@ -1,4 +1,4 @@
 <?php
 echo "Update ni Junior";
-echo "Update ni Senior";
+echo "Update ni Junior 2";
 ?>
